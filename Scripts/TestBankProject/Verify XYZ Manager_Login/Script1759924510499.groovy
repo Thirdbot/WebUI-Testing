@@ -63,5 +63,3 @@ WebUI.click(findTestObject('BankProject/Manager/addcustomer/Add Cutomer Button')
 
 WebUI.acceptAlert()
 
-WebUI.click(findTestObject('BankProject/Manager/button_XYZ Bank_btn logout'))
-
