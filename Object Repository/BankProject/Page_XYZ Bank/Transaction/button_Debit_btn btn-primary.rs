@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Debit_btn btn-primary</name>
+   <tag></tag>
+   <elementGuidId>3501f99b-c72e-438a-9a4c-d23caa8f8a39</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Debit'])[196]/following::button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;&lt;&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6d9f0812-55da-4ac1-ae43-b89dd5bdc922</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>8fbf7135-4baf-4c3b-90ab-12a0242e084e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-show</name>
+      <type>Main</type>
+      <value>left</value>
+      <webElementGuid>ed0b2cfe-5006-4635-bfe2-fe1aa548871c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>scrollLeft()</value>
+      <webElementGuid>b36c9dc5-dbc1-4116-a7c2-997dec2ea907</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>&lt;</value>
+      <webElementGuid>de1bd1ae-dd33-41b2-a474-de26e2e34293</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;container-fluid ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;marTop tbStruct border box ng-scope&quot;]/div[@class=&quot;fixedBottomBox&quot;]/button[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>db4ae03e-b30e-475b-8bef-98a961180649</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Debit'])[196]/following::button[1]</value>
+      <webElementGuid>0056c35c-73b6-4818-9125-ea4f4be97ff1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jul 28, 2015 12:00:00 AM'])[2]/following::button[1]</value>
+      <webElementGuid>33f99cc4-8570-44e8-ad11-41d77c01e492</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Top'])[1]/preceding::button[1]</value>
+      <webElementGuid>69ff5c82-25ca-4c70-b184-52504ae07274</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='>'])[1]/preceding::button[2]</value>
+      <webElementGuid>9fb69666-df13-4366-a9eb-3d06107f219a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='&lt;']/parent::*</value>
+      <webElementGuid>1f5c44b0-3eb0-475d-b329-062986b3feae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>f0e59965-8524-4fb0-b40c-09797ad6347c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '&lt;' or . = '&lt;')]</value>
+      <webElementGuid>1085b863-bbc0-49e6-857a-803423c75630</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

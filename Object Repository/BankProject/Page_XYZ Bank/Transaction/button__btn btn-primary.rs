@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button__btn btn-primary</name>
+   <tag></tag>
+   <elementGuidId>231752c9-4619-475a-84c9-eda346429919</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='&lt;'])[1]/following::button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Top&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2c6c9a7b-7b46-405e-8418-804959fe9599</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>664646f4-d886-4226-bf8e-fee65103788b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-show</name>
+      <type>Main</type>
+      <value>left</value>
+      <webElementGuid>22769a7d-dbb5-47bb-a406-edac13b4f0e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>scrollTop()</value>
+      <webElementGuid>502f9cec-712d-41a9-aea4-59e7e93e5d50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Top</value>
+      <webElementGuid>fe1fd8cf-6715-4eaf-a4f5-9a4d1e6e8f37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;container-fluid ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;marTop tbStruct border box ng-scope&quot;]/div[@class=&quot;fixedBottomBox&quot;]/button[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>ca49927c-fa30-410a-b915-8307d98fd085</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='&lt;'])[1]/following::button[1]</value>
+      <webElementGuid>f7fc5be5-3c49-414d-9dcd-df8e0cc397ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Debit'])[196]/following::button[2]</value>
+      <webElementGuid>7b530dc9-8846-405c-a865-8fe755032b8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='>'])[1]/preceding::button[1]</value>
+      <webElementGuid>a5198366-e1bd-4521-b3c1-4ef50b2e94e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Top']/parent::*</value>
+      <webElementGuid>5a164012-3f4f-49fa-9d53-7ec456f6c3b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button[2]</value>
+      <webElementGuid>94ac437a-7497-4de3-8ba1-4b3874ce9024</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Top' or . = 'Top')]</value>
+      <webElementGuid>d4ed0654-f37d-4dd0-9481-34936175a76a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
