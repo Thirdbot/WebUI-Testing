@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a__button product_type_simple add_to_cart_b_a0e296</name>
+   <tag></tag>
+   <elementGuidId>38d29cab-100c-4782-8af8-70a08995807a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/div[2]/ul/li[2]/div/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.product.type-product.post-26.status-publish.instock.product_cat-clothing.product_cat-t-shirts.has-post-thumbnail.taxable.shipping-taxable.purchasable.product-type-simple > div.ellie-thumb-wrapper > a.button.product_type_simple.add_to_cart_button.ajax_add_to_cart</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>li >> internal:has-text=&quot;Add to cart Happy Ninja $18.00&quot;i >> internal:label=&quot;Add “Happy Ninja” to your cart&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4a3e5e10-3345-4122-8486-d54c0ecf3630</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>?add-to-cart=26</value>
+      <webElementGuid>38278de6-3ac4-4975-a262-adac57a1f862</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-quantity</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>d9245be8-a5d8-49d0-b20d-9039b8cce6d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button product_type_simple add_to_cart_button ajax_add_to_cart</value>
+      <webElementGuid>3d548933-4b80-4ad0-8675-e27db9ae6349</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-product_id</name>
+      <type>Main</type>
+      <value>26</value>
+      <webElementGuid>ab3fd6b5-1b52-4dd1-81fc-1a014c048aaa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-product_sku</name>
+      <type>Main</type>
+      <value>T-SHIRT-HAPPY-NINJA</value>
+      <webElementGuid>d1079de8-2273-4f2c-a072-3b15d3e2dc84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Add “Happy Ninja” to your cart</value>
+      <webElementGuid>af766719-c604-49e5-ba19-25ba18edfd26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>nofollow</value>
+      <webElementGuid>b34ff673-ad42-40bb-ada2-c10a52c95fb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add to cart</value>
+      <webElementGuid>15c9c213-b79d-4e80-b4f7-b9000d32cae4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;columns-3&quot;]/ul[@class=&quot;products columns-3&quot;]/li[@class=&quot;product type-product post-26 status-publish instock product_cat-clothing product_cat-t-shirts has-post-thumbnail taxable shipping-taxable purchasable product-type-simple&quot;]/div[@class=&quot;ellie-thumb-wrapper&quot;]/a[@class=&quot;button product_type_simple add_to_cart_button ajax_add_to_cart&quot;]</value>
+      <webElementGuid>ebb9e42a-f707-42da-acbd-4307a4037897</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/div[2]/ul/li[2]/div/a[2]</value>
+      <webElementGuid>b3883158-5d5c-4cbc-9eaf-e7a93ac89d8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Add to cart')])[2]</value>
+      <webElementGuid>ed04abec-1bc2-45b7-8cea-09edf2583ac4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$'])[2]/following::a[2]</value>
+      <webElementGuid>a3143763-3883-4d81-8dd1-05dfa35ea586</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$'])[1]/following::a[2]</value>
+      <webElementGuid>388a6bbc-ed2d-469a-a65c-985a1d5445b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Happy Ninja'])[1]/preceding::a[1]</value>
+      <webElementGuid>de8ea62e-79a7-46c6-abb6-1a1187837e48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$'])[3]/preceding::a[1]</value>
+      <webElementGuid>d7b12dc2-c41c-4867-92d7-64e5f4d1acb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '?add-to-cart=26')]</value>
+      <webElementGuid>6a448696-074f-4a5b-8f08-290330d774b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/a[2]</value>
+      <webElementGuid>9205f462-f73a-44cc-95b2-0c5d9b64be1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '?add-to-cart=26' and (text() = 'Add to cart' or . = 'Add to cart')]</value>
+      <webElementGuid>cbe18108-c1c9-4510-94c1-3ed1da7a1fdf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

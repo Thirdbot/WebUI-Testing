@@ -11,7 +11,11 @@
    <modifiedEdition>ENTERPRISE</modifiedEdition>
    <modifiedVersion>10.3.2</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+<<<<<<< HEAD
    <projectFileLocation>C:\Users\astro\Katalon Studio\WEBUI_Test\WEBUI_Test.prj</projectFileLocation>
+=======
+   <projectFileLocation>C:\Users\warin\Desktop\WebUI-Testing\WEBUI_Test.prj</projectFileLocation>
+>>>>>>> branch 'master' of https://github.com/Thirdbot/WebUI-Testing
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
