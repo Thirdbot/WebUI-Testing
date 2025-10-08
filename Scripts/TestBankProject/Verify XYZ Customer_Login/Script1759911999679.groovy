@@ -23,35 +23,35 @@ WebUI.openBrowser('https://www.globalsqa.com/angularJs-protractor/BankingProject
 
 WebUI.click(findTestObject('BankProject/XYZ_Home/Button_Customer_Login'))
 
-WebUI.selectAllOption(findTestObject('BankProject/Page_XYZ Bank/Select Username'))
+WebUI.selectAllOption(findTestObject('BankProject/Customer/Select Username'))
 
-WebUI.click(findTestObject('BankProject/Page_XYZ Bank/Username Login Button'))
+WebUI.click(findTestObject('BankProject/Customer/Username Login Button'))
 
-WebUI.selectAllOption(findTestObject('BankProject/Page_XYZ Bank/Select Currency'))
+WebUI.selectAllOption(findTestObject('BankProject/Customer/Select Currency'))
 
-WebUI.click(findTestObject('BankProject/Page_XYZ Bank/Deposit/Deposit Button'))
+WebUI.click(findTestObject('BankProject/Customer/Deposit/Deposit Button'))
 
-WebUI.click(findTestObject('BankProject/Page_XYZ Bank/Deposit/Input Amount Deposit'))
+WebUI.click(findTestObject('BankProject/Customer/Deposit/Input Amount Deposit'))
 
-WebUI.sendKeys(findTestObject('BankProject/Page_XYZ Bank/Deposit/Input Amount Deposit'), '100')
+WebUI.sendKeys(findTestObject('BankProject/Customer/Deposit/Input Amount Deposit'), '100')
 
-WebUI.click(findTestObject('BankProject/Page_XYZ Bank/Deposit/Confirm Deposit'))
+WebUI.click(findTestObject('BankProject/Customer/Deposit/Confirm Deposit'))
 
-WebUI.click(findTestObject('BankProject/Page_XYZ Bank/Withdraw/Withdraw Button'))
+WebUI.click(findTestObject('BankProject/Customer/Withdraw/Withdraw Button'))
 
-WebUI.click(findTestObject('BankProject/Page_XYZ Bank/Withdraw/Input Withdraw Amount'))
+WebUI.click(findTestObject('BankProject/Customer/Withdraw/Input Withdraw Amount'))
 
-WebUI.sendKeys(findTestObject('BankProject/Page_XYZ Bank/Withdraw/Input Withdraw Amount'), '50')
+WebUI.sendKeys(findTestObject('BankProject/Customer/Withdraw/Input Withdraw Amount'), '50')
 
-WebUI.click(findTestObject('BankProject/Page_XYZ Bank/Withdraw/Confirm Withdraw'))
+WebUI.click(findTestObject('BankProject/Customer/Withdraw/Confirm Withdraw'))
 
-WebUI.click(findTestObject('BankProject/Page_XYZ Bank/Transaction/Transaction Button'))
+WebUI.click(findTestObject('BankProject/Customer/Transaction/Transaction Button'))
 
-WebUI.click(findTestObject('BankProject/Page_XYZ Bank/Transaction/Reset Table'))
+WebUI.click(findTestObject('BankProject/Customer/Transaction/Reset Table'))
 
-WebUI.click(findTestObject('BankProject/Page_XYZ Bank/Transaction/Top'))
+WebUI.click(findTestObject('BankProject/Customer/Transaction/Top'))
 
-WebUI.click(findTestObject('BankProject/Page_XYZ Bank/Transaction/Back Button'))
+WebUI.click(findTestObject('BankProject/Customer/Transaction/Back Button'))
 
-WebUI.click(findTestObject('BankProject/Page_XYZ Bank/button_XYZ Bank_btn logout'))
+WebUI.click(findTestObject('BankProject/Customer/button_XYZ Bank_btn logout'))
 
