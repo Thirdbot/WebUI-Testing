@@ -31,8 +31,6 @@ WebUI.sendKeys(findTestObject('CURA Healthcare Service/Login/InputPassword'), 'T
 
 WebUI.click(findTestObject('CURA Healthcare Service/Login/Login Button'))
 
-WebUI.deleteAllCookies()
-
 WebUI.click(findTestObject('CURA Healthcare Service/MakeAppointment/SelectFacility'))
 
 WebUI.selectAllOption(findTestObject('CURA Healthcare Service/MakeAppointment/SelectFacility'))

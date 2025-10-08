@@ -17,23 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('https://katalon-demo-cura.herokuapp.com/')
+WebUI.click(findTestObject('CURA Healthcare Service/Log out/burgermenu'))
 
-WebUI.click(findTestObject('CURA Healthcare Service/Menu/burgermenu'))
-
-WebUI.click(findTestObject('CURA Healthcare Service/Menu/Home'))
-
-WebUI.click(findTestObject('CURA Healthcare Service/Menu/burgermenu'))
-
-WebUI.click(findTestObject('CURA Healthcare Service/Menu/Login'))
-
-WebUI.click(findTestObject('CURA Healthcare Service/Login/InputUsername'))
-
-WebUI.sendKeys(findTestObject('CURA Healthcare Service/Login/InputUsername'), 'John Doe')
-
-WebUI.click(findTestObject('CURA Healthcare Service/Login/InputPassword'))
-
-WebUI.sendKeys(findTestObject('CURA Healthcare Service/Login/InputPassword'), 'ThisIsNotAPassword')
-
-WebUI.click(findTestObject('CURA Healthcare Service/Login/Login Button'))
+WebUI.click(findTestObject('CURA Healthcare Service/Log out/Logout'))
 
