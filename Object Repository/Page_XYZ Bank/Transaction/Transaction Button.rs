@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>e75b7fb3-c1b7-4d93-9fdd-c77d57776bd5</webElementGuid>
+      <webElementGuid>79812c37-c8cf-425d-b92c-d5054f3f48b4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>ng-class</name>
       <type>Main</type>
       <value>btnClass1</value>
-      <webElementGuid>20245962-3462-40a8-9df3-79f6294524a2</webElementGuid>
+      <webElementGuid>5c262243-41ac-4ce5-9e1d-d90e5fc25624</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-lg tab</value>
-      <webElementGuid>671baf37-a53a-4a2b-a4bf-1283e37cc4af</webElementGuid>
+      <webElementGuid>50a3f448-8156-4869-bf6b-51232abfd9c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>ng-click</name>
       <type>Main</type>
       <value>transactions()</value>
-      <webElementGuid>a0592779-0721-468b-8b43-d0486351fbc2</webElementGuid>
+      <webElementGuid>7b470306-295a-4f4f-a47c-2d3b138a6ae4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <value>Transactions
 		
 		</value>
-      <webElementGuid>0fac8ec0-737f-4dec-9e04-88256931e89d</webElementGuid>
+      <webElementGuid>bb3915d9-23b7-47cb-933b-83a06deb3632</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;container-fluid ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;borderM box padT20 ng-scope&quot;]/div[@class=&quot;center&quot;]/button[@class=&quot;btn btn-lg tab&quot;]</value>
-      <webElementGuid>bad8bb8f-a846-452c-b1a5-baf1ff25083d</webElementGuid>
+      <webElementGuid>f00dfc91-89a5-416c-b517-1f961a4c1661</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Dollar'])[1]/following::button[1]</value>
-      <webElementGuid>ca407bc2-d11d-4512-849c-8dfab6429e74</webElementGuid>
+      <webElementGuid>722569be-3de7-4942-9b6b-70e59061ce3d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Deposit'])[1]/preceding::button[1]</value>
-      <webElementGuid>2b4b79c9-5f9d-40a5-8c8a-59e6448c184d</webElementGuid>
+      <webElementGuid>bcb243d2-0848-47c2-9453-ed5aafa99193</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Withdrawl'])[1]/preceding::button[2]</value>
-      <webElementGuid>275c42ba-8728-4b32-9ed4-092a28270a06</webElementGuid>
+      <webElementGuid>cdd1a29d-26ac-432d-b8ee-5afe78967770</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Transactions']/parent::*</value>
-      <webElementGuid>fec05cd8-d25b-4b4b-8b5c-cc3227ea3a17</webElementGuid>
+      <webElementGuid>8575ab88-742c-4036-b924-ea8bb8c2bf93</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/button</value>
-      <webElementGuid>3122a925-8593-4bbd-829b-2b8cac210c9b</webElementGuid>
+      <webElementGuid>7f4cd9d4-23cf-4a39-a1c9-281939690090</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -123,6 +123,6 @@
 		' or . = 'Transactions
 		
 		')]</value>
-      <webElementGuid>e3a5b596-6a19-42e5-bcc8-b842e8fbbcc2</webElementGuid>
+      <webElementGuid>28865fc2-541e-4173-903c-fca0fdb5b065</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

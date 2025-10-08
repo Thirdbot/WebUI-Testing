@@ -45,3 +45,13 @@ WebUI.sendKeys(findTestObject('Page_XYZ Bank/Withdraw/Input Withdraw Amount'), '
 
 WebUI.click(findTestObject('Page_XYZ Bank/Withdraw/Confirm Withdraw'))
 
+WebUI.click(findTestObject('Page_XYZ Bank/Transaction/Transaction Button'))
+
+WebUI.click(findTestObject('Page_XYZ Bank/Transaction/Reset Table'))
+
+WebUI.click(findTestObject('Page_XYZ Bank/Transaction/Top'))
+
+WebUI.click(findTestObject('Page_XYZ Bank/Transaction/Back Button'))
+
+WebUI.click(findTestObject('Page_XYZ Bank/button_XYZ Bank_btn logout'))
+
