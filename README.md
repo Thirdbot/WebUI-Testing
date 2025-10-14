@@ -19,6 +19,6 @@
 
 ### รายงานผลการทดสอบ
 
-- [รายงาน XYZ Bank](./Test%Reports/XYZ%Bank.pdf)
-- [รายงาน Katalon Shop](./Test%Reports/Katalon%Shop.pdf)
-- [รายงาน CURA Healthcare Service](./Test%Reports/CURA.pdf)
+- [รายงาน XYZ Bank](https://github.com/Thirdbot/WebUI-Testing/blob/9c29234d8f8d024efc2a7bd50bb3aa86019280db/Test%20Reports/XYZ%20Bank.pdf)
+- [รายงาน Katalon Shop](https://github.com/Thirdbot/WebUI-Testing/blob/9c29234d8f8d024efc2a7bd50bb3aa86019280db/Test%20Reports/Katalon%20Shop.pdf)
+- [รายงาน CURA Healthcare Service](https://github.com/Thirdbot/WebUI-Testing/blob/9c29234d8f8d024efc2a7bd50bb3aa86019280db/Test%20Reports/CURA.pdf)
