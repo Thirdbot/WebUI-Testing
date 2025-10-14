@@ -19,16 +19,6 @@
 
 ### รายงานผลการทดสอบ
 
-
-
-### ภาพการรัน Test Suites
-
-#### XYZ Bank
-![](./Images/screenshot%202025-10-14%20215129.jpg)
-
-
-#### Katalon Shop
-![](./Images/screenshot%2025-10-14%221134.jpg)
-
-#### CURA Healthcare Service
-![](./Images/screenshot%2025-10-14%220017.jpg)
+- [รายงาน XYZ Bank](./Test%Reports/XYZ%Bank.pdf)
+- [รายงาน Katalon Shop](./Test%Reports/Katalon%Shop.pdf)
+- [รายงาน CURA Healthcare Service](./Test%Reports/CURA.pdf)
