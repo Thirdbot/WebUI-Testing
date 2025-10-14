@@ -24,10 +24,11 @@
 ### ภาพการรัน Test Suites
 
 #### XYZ Bank
-![](./Images/screenshot 202025-10-14 20215129.jpg)
+![](./Images/screenshot%202025-10-14%20215129.jpg)
+
 
 #### Katalon Shop
-![](./Images/screenshot 2025-10-14 221134.jpg)
+![](./Images/screenshot%2025-10-14%221134.jpg)
 
 #### CURA Healthcare Service
-![](./Images/screenshot 2025-10-14 220017.jpg)
+![](./Images/screenshot%2025-10-14%220017.jpg)
